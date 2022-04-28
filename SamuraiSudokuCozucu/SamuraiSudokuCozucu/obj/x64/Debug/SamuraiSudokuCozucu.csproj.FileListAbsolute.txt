@@ -1,0 +1,12 @@
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\x64\Debug\sudoku.txt
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\x64\Debug\SamuraiSudokuCozucu.exe.config
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\x64\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\x64\Debug\SamuraiSudokuCozucu.pdb
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.csproj.AssemblyReference.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.Form1.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.Properties.Resources.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.csproj.GenerateResource.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\x64\Debug\SamuraiSudokuCozucu.pdb

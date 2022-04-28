@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29ef3936-421e-4c47-bdce-4a25abb35967": {
+      "ProjectGuid": "29ef3936-421e-4c47-bdce-4a25abb35967",
+      "DisplayName": "SamuraiSudokuCozucu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,35 @@
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.AssemblyReference.cache
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Form1.resources
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Properties.Resources.resources
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.GenerateResource.cache
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.CoreCompileInputs.cache
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe.config
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.pdb
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.exe
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.pdb
+D:\USERS\DAGHAN\Documents\Visual Studio 2017\Projects\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\sudoku.txt
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\sudoku.txt
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe.config
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.pdb
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.AssemblyReference.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Form1.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Properties.Resources.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.GenerateResource.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucu\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.pdb
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\Debug\sudoku.txt
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe.config
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\bin\Debug\SamuraiSudokuCozucu.pdb
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.AssemblyReference.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Form1.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.Properties.Resources.resources
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.GenerateResource.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.exe
+C:\Users\Mertcan\Desktop\SamuraiSudokuCozucuSon\SamuraiSudokuCozucu\obj\Debug\SamuraiSudokuCozucu.pdb
